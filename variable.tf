@@ -1,0 +1,10 @@
+variable "region" {}
+variable "project" {}
+variable "acm" {}
+variable "ec2-type" {}
+variable "asg_count" {}
+variable "domain_name" {}
+variable "vpc_id" {}
+variable "subnet1" {}
+variable "subnet2" {}
+variable "key_name" {} 
